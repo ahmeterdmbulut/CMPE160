@@ -2,12 +2,12 @@
 
 This project implements a Turkey city navigation application in Java. The goal of the application is to find and display
 the shortest path between two input cities on a 2D map using the **StdDraw** graphics library. The project reads city 
-and road data from text files and uses an efficient path-finding algorithm, which is Dijkstra's algorithm in this project,
+and road data from text files and uses an efficient path-finding algorithm, which is **Dijkstra's algorithm** in this project,
 to calculate the shortest path between the cities, while also outputting the total distance and the route taken.
 
 ## Features
 
-- **Shortest Path Calculation**: The program calculates the shortest path between two cities using Dijkstra's algorithm.
+- **Shortest Path Calculation**: The program calculates the shortest path between two cities using **Dijkstra's algorithm**.
 - **Graphical Representation**: Cities and connections are displayed on a graphical map using the **StdDraw** library.
 - **Console Output**: The total distance and the route between two cities are printed to the console.
 - **Error Handling**: Includes validation for invalid city names, unreachable cities, and pathfinding within the same city.
@@ -25,7 +25,7 @@ City1, City2, Distance
 ## How It Works
 - The program reads city data from **city_coordinates.txt** and road data from **city_connections.txt**.
 - It constructs a graph where each city is a node, and the roads are edges with associated distances.
-- Using Dijkstra's algorithm, the shortest path is calculated and displayed graphically.
+- Using **Dijkstra's algorithm**, the shortest path is calculated and displayed graphically.
 - The program outputs the total distance and the path in both graphical and console formats.
 
 ### Example Scenarios
