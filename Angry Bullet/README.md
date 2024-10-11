@@ -23,4 +23,3 @@ This is a simple 2D game where the player tries to hit various targets by adjust
 ## Requirements
 
 - Java Development Kit (JDK) version 8 or above.
-- **StdDraw** library for handling drawing and animations. You can download it from [here](https://introcs.cs.princeton.edu/java/stdlib/).
