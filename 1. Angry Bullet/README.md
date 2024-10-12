@@ -19,7 +19,3 @@ This is a simple 2D game where the player tries to hit various targets by adjust
 - **Decrease Velocity**: Press the `Left Arrow` to decrease the projectile velocity.
 - **Shoot**: Press the `Space` key to launch the projectile.
 - **Reset**: Press the `R` key to reset the game and try again.
-
-## Requirements
-
-- Java Development Kit (JDK) version 8 or above.
