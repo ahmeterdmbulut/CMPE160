@@ -1,4 +1,4 @@
-# Migros Delivery Using Ant Colonoy Optimization
+# Migros Delivery Using Ant Colony Optimization
 
 This project implements a solution to the Migros delivery problem using two different algorithms: **Brute-Force** and 
 **Ant Colony Optimization**. The aim is to determine the shortest route for a Migros delivery vehicle, which starts from a 
